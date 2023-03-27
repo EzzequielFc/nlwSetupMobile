@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	<img src="https://user-images.githubusercontent.com/93431754/228053314-98281f1b-2aaf-4460-a40a-057f4c275dd4.png" width="15%">
 	<img src="https://user-images.githubusercontent.com/93431754/228053311-52771aec-bcb3-442e-8a44-fc7feeca8d8e.png" width="15%">
 	<img src="https://user-images.githubusercontent.com/93431754/228053308-d0582362-6cc4-4fc8-affb-ad3da89d610c.png" width="15%">
-< /p >
+
 ## 🚀 Instalação e uso
 
 ```bash
