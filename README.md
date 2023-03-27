@@ -31,11 +31,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <p align="left">       
-  	<img src="https://user-images.githubusercontent.com/93431754/228053317-b9d94303-d27e-4e42-a5dd-0307f77ccc9e.png" width="35%">
-	<img src="https://user-images.githubusercontent.com/93431754/228053315-7adcc8b4-739e-422f-829a-10993147c511.png" width="35%">
-	<img src="https://user-images.githubusercontent.com/93431754/228053314-98281f1b-2aaf-4460-a40a-057f4c275dd4.png" width="35%">
-	<img src="https://user-images.githubusercontent.com/93431754/228053311-52771aec-bcb3-442e-8a44-fc7feeca8d8e.png" width="35%">
-	<img src="https://user-images.githubusercontent.com/93431754/228053308-d0582362-6cc4-4fc8-affb-ad3da89d610c.png" width="35%">
+  	<img src="https://user-images.githubusercontent.com/93431754/228053317-b9d94303-d27e-4e42-a5dd-0307f77ccc9e.png" width="15%">
+	<img src="https://user-images.githubusercontent.com/93431754/228053315-7adcc8b4-739e-422f-829a-10993147c511.png" width="15%">
+	<img src="https://user-images.githubusercontent.com/93431754/228053314-98281f1b-2aaf-4460-a40a-057f4c275dd4.png" width="15%">
+	<img src="https://user-images.githubusercontent.com/93431754/228053311-52771aec-bcb3-442e-8a44-fc7feeca8d8e.png" width="15%">
+	<img src="https://user-images.githubusercontent.com/93431754/228053308-d0582362-6cc4-4fc8-affb-ad3da89d610c.png" width="15%">
 < /p >
 ## 🚀 Instalação e uso
 
